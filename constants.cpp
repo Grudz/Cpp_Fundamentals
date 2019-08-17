@@ -33,7 +33,7 @@ using namespace std;
 #include <iostream>
 #include <string>
 using namespace std;
-string boobs;
+string games;
 float a = 7;
 const float b = 0.69;
 float c;
@@ -43,16 +43,16 @@ int main()
 {
 
 
-	boobs = "Boobs are cool";
-	cout << boobs;
+	games = "games are cool";
+	cout << games;
 	cout << NEWLINE;
 	cout << a;
 	a = a + b;
 	cout << NEWLINE;
 	cout << a;
 
-	boobs = "\nBoobs are very cool";
-	cout << boobs << endl; // end line = endl
+	boobs = "\nGames are very cool";
+	cout << games << endl; // end line = endl
 	return 0;
 }
 //#include <iostream>
