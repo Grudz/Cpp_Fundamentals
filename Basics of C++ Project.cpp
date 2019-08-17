@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-#include <thread>         // std::this_thread::sleep_for
-#include <chrono>         // std::chrono::seconds
 
 //include sizeof funciton
 
@@ -36,7 +34,7 @@ int main()
 	cout << "--------------------\n";
 
 	cout << "\nEnter the MSB: ";
-	getline(cin, astr); // Way to take input (I don't know why I need to sandwhich these
+	getline(cin, astr); // Way to take input (I don't know why I need to sandwhich these)
 	stringstream(astr) >> a;
 	cout << "Enter the LSB: ";
 	cin >> b; // Another way to take user input
