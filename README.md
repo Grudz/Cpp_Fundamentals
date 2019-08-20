@@ -14,9 +14,11 @@ A personal project – This project will develop and evolve. The knowledge from 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-The format of this repository based of the commits I uploaded:
-  Naming convention => name Chapter#_Section#.cpp
+The format of this repository:
 
+  The Personal Projects are Highlighted and labeled,
+  Naming convention => name Chapter#_Section#.cpp
+  
 Chapter 1: Basics of C++ (Only this chapter isn't named correctly)
 
   Variables and Types.cpp, Constants.cpp, Operators.cpp, Basic Input-Output.cpp
