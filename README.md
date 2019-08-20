@@ -19,13 +19,13 @@ The format of this repository:
   The Personal Projects are Highlighted and labeled,
   Naming convention => name Chapter#_Section#.cpp
   
-Chapter 1: Basics of C++ (Only this chapter isn't named correctly)
+CHAPTER 1: Basics of C++ (Only this chapter isn't named correctly)
 
   Variables and Types.cpp, Constants.cpp, Operators.cpp, Basic Input-Output.cpp
   
     Chapter 1 Project: Basics of C++ Project.cpp
 
-Chapter 2: Program Structure
+CHAPTER 2: Program Structure
   
    Statements and Flow Control 2_1.cpp, Functions 2_2.cpp, Overloads and Templates 2_3.cpp, Name Visibility 2_4.cpp
    
