@@ -19,7 +19,8 @@ The format of this repository based of the commits I uploaded:
 
 Chapter 1: Basics of C++ (Only this chapter isn't named correctly)
 
-  Variables and Types.cpp, Constants.cpp, Operators.cpp, Basic Input-Output.cpp
+  Variables and Types.cpp,
+  Constants.cpp, Operators.cpp, Basic Input-Output.cpp
   
     Chapter 1 Project: Basics of C++ Project.cpp
 
