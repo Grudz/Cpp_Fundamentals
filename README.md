@@ -6,7 +6,7 @@ Link to tutorial: http://www.cplusplus.com/doc/tutorial/
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-An overview of this repository:
+An OVERVIEW of this repository:
 
 A small chunk of code for each section in the chapter – applying the principles in that chapter.
 
@@ -14,7 +14,7 @@ A personal project – This project will develop and evolve. The knowledge from 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-The format of this repository:
+The FORMAT of this repository:
 
   The Personal Projects are Highlighted and labeled,
   Naming convention => name Chapter#_Section#.cpp
