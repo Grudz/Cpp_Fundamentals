@@ -1,6 +1,6 @@
 # Learning_Cplusplus
 
-I have to learn C++ for an autonomous vehicle course before winter semester, 2020, of university. I am documenting this journey with the goal of quantifying my knowledge and developing me C++ skills with the Github community.
+I have to learn C++ for an autonomous vehicle course before winter semester, 2020, of university. I am documenting this journey with the goal of quantifying my knowledge and developing my C++ skills with the GitHub community. Moreover, I plan to post my projects, past and in the future, on GitHub and encourage others to do the same! 
 
 Link to tutorial: http://www.cplusplus.com/doc/tutorial/
 
