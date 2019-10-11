@@ -17,7 +17,7 @@ A personal project – This project will develop and evolve. The knowledge from 
 The FORMAT of this repository:
 
   The Personal Projects are Highlighted and labeled,
-  Naming convention => name Chapter#_Section#.cpp
+  Naming convention => name Chapter Name_Section#.cpp
   
 CHAPTER 1: Basics of C++ (Only this chapter isn't named correctly)
 
