@@ -30,4 +30,9 @@ CHAPTER 2: Program Structure
    Statements and Flow Control 2_1.cpp, Functions 2_2.cpp, Overloads and Templates 2_3.cpp, Name Visibility 2_4.cpp
    
     Chapter 2 Project: Program Structure Project.cpp
+    
+CHAPTER 3: Compound Data Types
+  
+   Arrays 3_1.cpp, Character Sequences 3_2.cpp, Pointers 3_3.cpp, Dynamic Memory 3_3.cpp, Data Structures 3_4.cpp, Other Data Types 3_5.cpp
    
+    Chapter 3 Project: Compound Data Types Project.cpp   
