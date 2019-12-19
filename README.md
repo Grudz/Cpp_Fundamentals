@@ -33,6 +33,6 @@ CHAPTER 2: Program Structure
     
 CHAPTER 3: Compound Data Types
   
-   Arrays 3_1.cpp, Character Sequences 3_2.cpp, Pointers 3_3.cpp, Dynamic Memory 3_3.cpp, Data Structures 3_4.cpp, Other Data Types 3_5.cpp
+   Arrays 3_1.cpp, Character Sequences 3_2.cpp, Pointers 3_3.cpp, Dynamic Memory 3_4.cpp, Data Structures 3_4.cpp, Input_Output Files.cpp
    
     Chapter 3 Project: Compound Data Types Project.cpp   
