@@ -105,7 +105,6 @@ int main()
 	XNOR.all_ops = "XNOR => a b output\n       0 0    1  \n       0 1    0  \n"
 		"       1 0    0  \n       1 1    1  \n--------------------\n";
 
-	char characters[10];
 	while (1)
 	{
 		cout << "Currently entered bits: " << *a_ptr << *b_ptr << "\n\n";
