@@ -43,4 +43,4 @@ FINAL CHAPTER
    
    Supplemental programs: Class Examples, 
    
-    FINAL PROJECT_Hockey Mini Game.cpp
+    Final Project: FINAL PROJECT_Hockey Mini Game.cpp
