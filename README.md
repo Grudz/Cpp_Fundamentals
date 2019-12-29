@@ -37,8 +37,9 @@ CHAPTER 3: Compound Data Types
    
     Chapter 3 Project: Compound Data Types Project.cpp 
     
-FINAL PROJECT
+FINAL CHAPTER
   
-   This project demonstrates the object orientated properties of C++ that distinguishes it from C. Important concepts displayed in this program are inheritance and polymorphism.
+   The final project demonstrates the object orientated properties of C++ that distinguishes it from C. Important concepts displayed in this program are inheritance and polymorphism. It demonstrates these concepts in a fun way through a cool mini-game
+   Supplemental programs: Class Examples, 
    
-    FINAL PROJECT.cpp
+    FINAL PROJECT_Hockey Mini Game.cpp
