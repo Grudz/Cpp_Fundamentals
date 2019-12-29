@@ -35,4 +35,10 @@ CHAPTER 3: Compound Data Types
   
    Arrays 3_1.cpp, Character Sequences 3_2.cpp, Pointers 3_3.cpp, Dynamic Memory 3_4.cpp, Data Structures 3_4.cpp, Input_Output Files.cpp
    
-    Chapter 3 Project: Compound Data Types Project.cpp   
+    Chapter 3 Project: Compound Data Types Project.cpp 
+    
+FINAL PROJECT
+  
+   This project demonstrates the object orientated properties of C++ that distinguishes it from C. Important concepts displayed in this program are inheritance and polymorphism.
+   
+    FINAL PROJECT.cpp
